@@ -41,3 +41,12 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# --- CLion / CMake Ignores ---
+cmake-build-*/
+.idea/
+
+# --- Arduino / Firmware Binaries ---
+*.hex
+*.bin
+*.elf
