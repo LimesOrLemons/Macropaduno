@@ -6,8 +6,7 @@ An ESP32-S3 handheld controller with a custom PCB and 3D-printed enclosure for n
 
 Welcome to **Macropaduno**, a custom-designed handheld controller powered by an ESP32-S3. This is the second iteration of the design, significantly expanded to pack maximum functionality into a compact layout for advanced programming and testing.
 
-<img width="630" height="476" alt="image" src="https://github.com/user-attachments/assets/2cb56ea9-1868-49d8-995c-69163365cbe5" />
-
+<img width="540" height="473" alt="image" src="https://github.com/user-attachments/assets/46d9c421-b917-4ace-8474-79143efa8b20" />
 
 ## Features & Hardware Specs
 
@@ -35,10 +34,17 @@ While the form factor turned out a bit bulkier than originally planned, it serve
 * Planning for acoustic chambers, battery integration, and mechanical clearance in 3D CAD (modeled in Onshape, with future plans to explore SolidWorks for professional CAD workflows).
 * Identifying areas for future optimization, such as transitioning to 4-layer boards and component stacking for tighter spatial efficiency.
 
+<img width="1914" height="630" alt="image" src="https://github.com/user-attachments/assets/d316855e-669c-47ca-9fdd-cc07aa70f807" />
+
 ## Version 1 Prototype
-Here is what the original v1 version of the macropad looked like:
+Here is what the v1 version of the macropad looked like:
 
 <img width="985" height="769" alt="image" src="https://github.com/user-attachments/assets/c295aa06-f533-4bc0-9724-3527e8b2c9aa" />
+
+## Version 2 Prototype
+Here is what the v2 version of the macropad looked like:
+
+<img width="700" height="514" alt="image" src="https://github.com/user-attachments/assets/61c17ec5-3e17-4e7a-b6d9-7158cd16a89c" />
 
 
 ## Acknowledgements & Credits
