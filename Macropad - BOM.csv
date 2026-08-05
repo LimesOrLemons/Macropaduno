@@ -1,0 +1,30 @@
+Link,Part Name,Quantity,Unit Cost,Total Cost,Desc.
+https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/102010671/26553873?s=N4IgTCBcDaIIwAYwMQNgOxxAXQL5A,ESP32 S3 Plus,1,$7.90,$7.90,MCU
+https://www.digikey.com/en/products/detail/microchip-technology/MCP23017-E-SO/894271,MCP23017,1,$1.62,$1.62,I/O Expand
+https://www.digikey.com/en/products/detail/cherry-americas-llc/MX1A-C1NW/280855,MX1A-C1NW,9,$1.25,$11.25,Cherry Switch
+https://www.digikey.com/en/products/detail/sparkfun-electronics/09032/6823623?s=N4IgTCBcDaIAwE44GYIF0C%2BQ,COM-9032,2,$5.25,$10.50,Joystick
+https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4220F-S0024/4499660,PEC11R-4220F-S0024,1,$2.69,$2.69,Rotary
+https://www.amazon.com/AITRIP-Display-Self-Luminous-Compatible-Raspberry/dp/B0F5WPZJ92/ref=sr_1_3?crid=SAQ6WU9NZL43&dib=eyJ2IjoiMSJ9.ltHBUPYmqHV_JQ2qknQofKvzTU0DPfBfBepf_kWjCEvcKT7jAMyR57EUVJ4HSmcUR4WCqu714JLtsfdnh3HddTcusJZCAxnw2unr_4voU40MOt_L1XQjAYJ3L71wXU7kMDwvzYvQzJP118aVZZWDuBtkkLcJjLsCkyxxIhBUTD_0xd4CYHwsaY66NOI5jZWVuTnFfQQk3goHG8O0Cu_ew-tOZYfDvR3i-iKw4In9qfM.Shuk1zd202QjZrp36ofKoXgei-v_tlug0kIVSswycAA&dib_tag=se&keywords=dm%2Boled&qid=1785889227&sprefix=dm%2Boled%2Caps%2C279&sr=8-3&th=1,.96 In OLED,1,$11.99,$11.99,OLED
+https://www.amazon.com/MAX98357-MAX98357A-Amplifier-Interface-Raspberry/dp/B0DPJRLMDJ/ref=sr_1_2?crid=5RJERWIRH0DB&dib=eyJ2IjoiMSJ9.wrUqlyCYfQg7uw9JEMG8tfsK5Q_Mv51wFRmePwgV3Xq1PTuJvTHXV85MLVcIB8Fo7sfl0zp2e7if8XlTs3e9BTCYsvSImm6IP43PNbgAgmJVSxOhyRqQyvCePFNMPTMzSxMmaVQYTOOkZBZdZH8SGiyM-SSZBTp1voC1YSA0WiKkw-EZpYww-xjW2T8vb-OE2HUDp8gZoMEahUihE3qLSe_FcldMsDp-XDiZFPxCIWk.2dcKtZtkQp932zcl7Ul76x2Yg8z_98S4FJR9VPJ9la0&dib_tag=se&keywords=MAX98357A&qid=1785889386&sprefix=max98357a%2Caps%2C216&sr=8-2,MAX98357A,1,$6.88,$6.88,Audio Amp
+https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/CVS-1508/2791828,CVS-1508,1,$3.95,$3.95,Speaker
+https://www.adafruit.com/product/1655,WS2812B,1,$4.50,$4.50,SMT LED
+https://www.digikey.com/en/products/detail/texas-instruments/LP5907MFX-2-8-NOPB/3906436,LP5907MFX-2.8/NOPB,2,$0.62,$1.24,LDO 2.8V
+https://www.digikey.com/en/products/detail/microchip-technology/MIC5365-1-3YC5-TR/1868078,MIC5365-1.3YC5-TR,1,$0.12,$0.12,LDO 1.3V
+https://www.amazon.com/OV5640-Camera-120%C2%B0Autofocus-Megapixel-Computer/dp/B0FVRJG44N/ref=sr_1_1?crid=3OT6344WMPRES&dib=eyJ2IjoiMSJ9.-va5NMwIEPkpkMEwtrwFo7PnHIt3GhURFSku7Kmd5UAtiHE6KQCcvGFAJilvG0E3yJ3WqxvecIuu8Eaqo8JL7p6z3hKyt7aAFHkqy1VVGCxRkhAobaWEGsgybyI_Yxpc2GCT7I2HkIM15mr6DjyJlEMp0oPj3frhPDTKMDo8VR0qUkyalmGXiUVeeVyCeUJwGCz4PzAdEJBloEZjfJ8igSfzoZ-r7KrAW47FiOUcjXc.IPNgx4CF46ieqpBQRiWiSFWsBoRD0Rv6VTUGMBMP4GM&dib_tag=se&keywords=OV5640%2Bcamera%2Bmodule%2B5MP%2B24PIN%2BDVP%2B(with%2B50mm%2B%2F%2B78mm%2B%2F%2B150mm%2BFPC%2Blength)&nsdOptOutParam=true&qid=1785892172&sprefix=ov5640%2Bcamera%2Bmodule%2B5mp%2B24pin%2Bdvp%2Bwith%2B50mm%2B%2F%2B78mm%2B%2F%2B150mm%2Bfpc%2Blength%2B%2Caps%2C226&sr=8-1&xpid=YEjuTFYPggwzB&th=1,OV5640,1,$24.99,$24.99,CAM
+https://www.digikey.com/en/products/detail/aces-connectors/50696-0240M-002/21623832,50696-0240M-002,1,$0.53,$0.53,24 pin FPC
+https://www.digikey.com/en/products/detail/olimex-ltd/SMD-IC-MT3608/29208971?s=N4IgTCBcDaILYBcDMA2ADADhAXQL5A,MT3608,10,$0.32,$3.16,Volt Booster
+https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-PH-SM4-TB/926641,B2B-PH-SM4-TB,1,$0.47,$0.47,JST for Batt
+https://www.amazon.com/QSYZAIL-Connector-Compatible-Arduino-Prototyping/dp/B0G578NSXC/ref=sr_1_3?crid=1MMDMQHLBEDHJ&dib=eyJ2IjoiMSJ9.DpxihuwnMyCLAk3IVJRY51FRKHBfetFYjPWd81uZCRHlEdNNyPvceFy4cKYBiqdbu5MSOnsw_AWlNy8GN8KAQjyQnDv-7Ra_6TgEa-j8OLyrCI3nTaiItAL6_WdJ9R7Qke2LoHWqTCdp3NwWt8CjroTXXVtw9eKCqr4fZfrvhJSP4MW6aexwqsuY9byTWnmnJ52wkxKieKnBMVE2Aiuf2CdTSjicFB_2Mv7o60krhFb10vUOR8XecFCJk1r5OArPrY0xWl5Zd4P3ImZ3_WahvkbhRlGJhpJab68x7XoduzM.qG-8F1ooe6DeeXkWuxVMXY1WDTUlPS7nltZbS-MCnns&dib_tag=se&keywords=female+header+2.54mm+pitch+kt&qid=1783377422&s=hi&sprefix=female+header+2.54mm+pitch+k%2Ctools%2C185&sr=1-3-catcorr,Header Pins,1,$9.99,$9.99,Header Pins
+https://www.digikey.com/en/products/detail/onsemi/1N4148/458603,Diode,1,$0.60,$0.60,For Matrix
+https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/K104K15X7RF5TH5/286555,K104K15X7RF5TH5,1,$1.67,$1.67,0.1uf cap
+https://www.digikey.com/en/products/detail/murata-electronics/RDEC71H226MWK1H03B/7362914,RDEC71H226MWK1H03B,1,$1.75,$1.75,22uf cap
+https://www.digikey.com/en/products/detail/rubycon/50YXJ22MTA5X11/3134939,50YXJ22MTA5X11,2,$0.23,$0.46,22uf pol cap
+https://www.digikey.com/en/products/detail/bourns-inc/RLB0914-150KL/2561356,RLB0914-150KL,1,$0.38,$0.38,15uH inductor
+https://www.digikey.com/en/products/detail/tdk/FG28X7R1E105KRT06/5803197,FG28X7R1E105KRT06,1,$1.93,$1.93,1uf cap for LDO
+https://www.digikey.com/en/products/detail/vishay-general-semiconductor-diodes-division/SB240S-E3-54/2146197,SB240S-E3/54,1,$0.67,$0.67,Schottky Diode
+https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT4K70/1741428,CF14JT4K70,1,$0.27,$0.27,4.7kohm r
+https://www.digikey.com/en/products/detail/yageo/MFR-25FBF52-10K2/13221,MFR-25FBF52-10K2,1,$0.42,$0.42,10.2kohm r
+https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT75K0/1741505,CF14JT75K0,1,$0.57,$0.57,75kohm r
+https://trade.jlcpcb.com/checkout/payMethod/?unionSettleId=6abc479397ef40caa6771d3a5667d1ee&systemType=order_pcb&orderTypes=order_pcb&calType=PRE_CAL&couponDemo=1&spm=Jlcpcb.Partcart.1002,Board Fab,1,$2.00,$2.00,JLCPCB
+,Shipping,1,$20.00,$20.00,shipping est.
+,Total,,,$132.50,
